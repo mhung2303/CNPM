@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PPPTPM\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\PPPTPM\\CNPM\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\PPPTPM\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\PPPTPM\\CNPM\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PPPTPM\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\PPPTPM\\CNPM\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\PPPTPM\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\PPPTPM\\CNPM\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\mhung\\.nuget\\packages\\",
-        "outputPath": "D:\\PPPTPM\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\PPPTPM\\CNPM\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages"
